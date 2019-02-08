@@ -1,0 +1,2 @@
+*{cursor:default}.calc_body{position:absolute;left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);border-radius:10px;background:#89cae4;border:1.2px solid #333}center{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;grid-template-rows:1fr 1fr 1fr 1fr 1fr}input[type=text]{width:90%;margin:5%;border-radius:20px;font-size:30px;height:10%;padding:10px;border-top:1px solid #333}.btn{font-size:18px!important}
+/*# sourceMappingURL=main.fa601fee.chunk.css.map */
